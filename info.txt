@@ -2,3 +2,4 @@ Welcome to git training.
 Git is a version control tool.
 It is the most popular toll.
 I love git.
+new git 
